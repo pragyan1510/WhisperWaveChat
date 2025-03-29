@@ -19,7 +19,7 @@
 ✅Profile Customization: Update your profile picture and personalize your bio to express yourself.
 ✅Real-Time Messaging: Enjoy smooth and instant messaging with all your contacts.
 
-[1](https://github.com/user-attachments/assets/66fd3f8d-d8a1-4f72-ac8c-665ca7326494)
+![1](https://github.com/user-attachments/assets/66fd3f8d-d8a1-4f72-ac8c-665ca7326494)
 ![2](https://github.com/user-attachments/assets/61f595dd-e1cd-424d-9fd3-acb2de503268)
 ![3](https://github.com/user-attachments/assets/7ececcf6-21c5-4700-8d98-386c0ad44f95)
 ![4](https://github.com/user-attachments/assets/237c7f19-1b79-4834-a547-af526f289de4)
