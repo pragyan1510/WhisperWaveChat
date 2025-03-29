@@ -19,13 +19,13 @@
 ✅Profile Customization: Update your profile picture and personalize your bio to express yourself.
 ✅Real-Time Messaging: Enjoy smooth and instant messaging with all your contacts.
 
-![1](https://github.com/user-attachments/assets/66fd3f8d-d8a1-4f72-ac8c-665ca7326494)
-![2](https://github.com/user-attachments/assets/61f595dd-e1cd-424d-9fd3-acb2de503268)
-![3](https://github.com/user-attachments/assets/7ececcf6-21c5-4700-8d98-386c0ad44f95)
-![4](https://github.com/user-attachments/assets/237c7f19-1b79-4834-a547-af526f289de4)
-![5](https://github.com/user-attachments/assets/5d698121-9e29-4555-8c9d-fa5eac181f28)
-![6](https://github.com/user-attachments/assets/f0cda213-7cb6-403d-847e-e7285d0dbe15)
-![7](https://github.com/user-attachments/assets/17725b66-f564-4af4-a022-40c8cf9cbbb5)
+![IMG-20250329-WA0007](https://github.com/user-attachments/assets/92640fe1-2d98-4c8c-86c6-21e0a774d1ec)
+![IMG-20250329-WA0008](https://github.com/user-attachments/assets/09300c8f-194d-4565-94bb-7ebb9fde722f)
+![IMG-20250329-WA0009](https://github.com/user-attachments/assets/8984c8f8-eb18-4b61-9b4d-4ccec47385bd)
+![IMG-20250329-WA0010](https://github.com/user-attachments/assets/63a18627-00de-4d01-88da-c3db8a080110)
+![IMG-20250329-WA0011](https://github.com/user-attachments/assets/28d9f1f4-f886-4878-be4c-789ea108010e)
+![IMG-20250329-WA0012](https://github.com/user-attachments/assets/34b39ae1-be1c-4d2f-9e13-ac74ced8fcc8)
+
 
 
 
